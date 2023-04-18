@@ -15,5 +15,5 @@ this creates the folder as a python module
 
 # Orginal idea/concept from:
 - https://github.com/microsoft/MLOps/blob/master/contributing.md
- - examples folder has plenty of samples over there.
+  - examples folder has plenty of samples over there.
 - https://drivendata.github.io/cookiecutter-data-science/

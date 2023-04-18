@@ -11,3 +11,9 @@ this creates the folder as a python module
 - configuration/*
 - docs/*
 - .pipelines/* 
+
+
+Orginal idea/concept from:
+
+https://github.com/microsoft/MLOps/blob/master/contributing.md
+https://drivendata.github.io/cookiecutter-data-science/
